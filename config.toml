@@ -21,7 +21,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     description = "Kigen Tembu's personal website"
     keywords = "blog,data scientist,statistician"
     info = "Full Stack Data Scientist"
-    avatarurl = "images/kig.jpg"
+    avatarurl = "images/avatar.jpg"
     footercontent = ""
 
     dateformat = "January 2, 2006"
