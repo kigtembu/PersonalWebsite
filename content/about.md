@@ -1,5 +1,5 @@
 +++
-title = "About Hugo"
+title = "Hello, Nice to meet you!"
 slug = "about"
 +++
 
