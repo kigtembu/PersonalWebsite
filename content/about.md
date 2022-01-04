@@ -3,7 +3,7 @@ title = "Hello, Nice to meet you!"
 slug = "about"
 +++
 
-Hugo is a static site engine written in Go.
+I am a data scientist with 6+ years experience.
 
 
 It makes use of a variety of open source projects including:
