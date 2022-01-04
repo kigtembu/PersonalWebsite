@@ -3,7 +3,7 @@ title = "Hello, Nice to meet you!"
 slug = "about"
 +++
 
-I am a data scientist with 6+ years experience.
+I am a data scientist with 6+ years experience .
 
 
 It makes use of a variety of open source projects including:
